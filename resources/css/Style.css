@@ -1,0 +1,157 @@
+.Tampilkan-Karyawan,
+.Karyawan-baru,
+.Update-Karyawan,
+.delete {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Tampilkan-Karyawan:hover,
+.Karyawan-baru:hover,
+.Update-Karyawan:hover,
+.delete:hover {
+  background-color: rgb(200, 0, 0);
+  border-radius: 10px;
+}
+
+.button1, .button2, .button3, .button4 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 300%;
+  display: block;
+  margin-bottom: 30px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+
+
+.containerHome {
+    background-color: rgb(16, 0, 73);
+  margin-top: 5px; 
+  text-align: center; 
+  padding: 20px;
+  width: 50%;
+}
+
+.judul-utama {
+  color: rgb(23, 173, 17);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 400%;
+}
+
+.p {
+  color: rgb(158, 8, 8);
+  font-family: courier;
+  font-size: 160%;
+}
+
+
+.Register-header{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+.form-container{
+    width: 60%;
+    margin: auto;
+
+
+}
+
+.form-control{
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.form-control input:not(input [type ="checkbox"]) {
+    width: 100%;
+    padding: 10px;
+}
+
+.Judul{
+text-align: center;
+margin: auto;
+}
+
+.biji{
+    margin-top: 30px;
+   text-align: center;
+   
+}
+
+.biji .submitButton{
+    width: 100%;
+}
+
+.container{
+    background-color: rgb(168, 125, 209);
+    margin-top: 5px; 
+    text-align: center; 
+    padding: 20px;
+    width: 50%;
+}
+
+
+
+.DKB-body{
+    background-image: url(Screenshot\ \(320\).png);
+    display:flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(55, 95, 100);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.Update-body{
+  background-image: url(Screenshot\ \(501\).png);
+  display:flex;
+align-items: center;
+justify-content: center;
+background-color: rgb(55, 95, 100);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.container2{
+  background-color: rgb(59, 0, 114);
+  margin-top: 5px; 
+  text-align: center; 
+  padding: 20px;
+  width: 50%;
+}
+
+.table1 {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background-color: rgb(184, 184, 184);
+}
+
+th, td{
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.bodyTampilkan{
+  background-image: url(Screenshot\ \(320\).png);
+}

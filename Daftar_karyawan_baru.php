@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<div class="container">
+
+<div class="Register-header">
+    <h1>Register</h1>
+</div>
+
+    <p class="Judul">Register Karyawan Baru</p>
+
+    <form action ="" class="form-container">
+        <div class = "form-control">
+            <label for="">Masukkan nama karyawan</label>
+            <input type ="text" placeholder ="5 - 20 karakter">
+        </div>
+        <div class="form-control">
+            <label for="">Masukkan umur karyawan</label>
+            <input type ="text" placeholder ="Harus diatas 20 tahun">
+        </div>
+        <div class = "form-control">
+            <label for="">Masukkan alamat karyawan</label>
+            <input type ="text" placeholder ="10 - 40 karakter">
+        </div>
+        <div class = "form-control">
+            <label for="">Masukkan No. Telp. karyawan</label>
+            <input type ="text" placeholder ="9 - 12 angka, dimulai dari 08">
+        </div>
+        <div class= "form-control">
+            <input type="checkbox" name="" id="">
+            Dengan mendafatar, anda menyetujui ToS dan Ketentuan Privasi PT. ChipiChapa
+        </div>
+
+        <div>
+            <button>Submit</button>
+        </div>
+
+
+</div>
+
+</body>
+</html>
